@@ -1,6 +1,6 @@
 # Collaborative AI Agents and Critics for Fault Detection and Cause Analysis in Network Telemetry
 
-[![arXiv](https://img.shields.io/badge/arXiv-2604.00319-b31b1b.svg)](https://arxiv.org/abs/2604.00319)
+[![arXiv](https://img.shields.io/badge/arXiv-2604.00319-b31b1b.svg)](https://arxiv.org/abs/2604.00319) [<img src="https://github.com/user-attachments/assets/d8bc1723-cd4f-4a55-92ed-44270dad0035" height="30" alt="SheQAI Research"/>](https://sheqai.com)
 
 ## Authors
 **Syed Eqbal Alam**
