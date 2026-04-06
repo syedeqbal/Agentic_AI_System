@@ -10,6 +10,7 @@ Edmonton, Alberta, Canada
 2. SheQAI Research, Edmonton, Alberta, Canada
 
 **Zhan Shu**
+
   Department of Electrical and Computer Engineering, University of Alberta,
 Edmonton, Alberta, Canada.
 
