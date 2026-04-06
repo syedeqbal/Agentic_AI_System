@@ -10,7 +10,7 @@ Edmonton, Alberta, Canada
 2. SheQAI Research, Edmonton, Alberta, Canada
 
 **Zhan Shu**
-1. Department of Electrical and Computer Engineering, University of Alberta,
+  Department of Electrical and Computer Engineering, University of Alberta,
 Edmonton, Alberta, Canada.
 
 ---
@@ -97,7 +97,7 @@ Experiments use **Dataset 4** from the open-source network telemetry benchmark o
 per modality, desired active critics per modality = 2.
 
 **Models used:** Llama3.2, DeepSeek-R1, Mistral, Llava:7b, IBM Granite3.2:8b, and
-Microsoft Phi4:14b — all open-source, deployed via Ollama and integrated via LangChain.
+Microsoft Phi4:14b---all open-source, deployed via Ollama and integrated via LangChain.
 
 **Hardware:** Intel Core i9, 2.20 GHz, 32 GB RAM, NVIDIA GeForce RTX 4080.
 
@@ -122,7 +122,7 @@ vector-embedded network telemetry log files stored in ChromaDB.
 | Agents & Critics with Llama3.2 (without RAG) | 0.4612 | 0.4027 | 0.6648 | 0.5016 |
 
 > XG Boosting-enabled agents outperform LLM-enabled agents on fault detection accuracy,
-> F1-score, precision, and recall — with faster execution. LLM-enabled agents and critics
+> F1-score, precision, and recall, with faster execution. LLM-enabled agents and critics
 > are used for the subsequent fault severity and cause analysis step.
 
 ### Convergence and System Cost
